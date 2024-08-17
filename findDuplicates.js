@@ -22,4 +22,5 @@ function findDuplicates(arr) {
     }
 }
 
-console.log (findDuplicates(sorted1));
+console.log ("smallest duplicate = ", findDuplicates(sorted1));
+console.log ("smallest duplicate = ", findDuplicates(sorted2));
