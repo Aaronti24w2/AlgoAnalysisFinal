@@ -39,5 +39,5 @@ function reverseDigits(input) {
     console.log(output);
 }
 
-reverseDigits(input1)
-reverseDigits(input2)
+reverseDigits("reversed digits = ", input1)
+reverseDigits("reversed digits = ", input2)
